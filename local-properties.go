@@ -23,7 +23,7 @@ const fileName = "local.properties"
 
 func main() {
 	// Let's get androidHome variable first
-	androidHome := os.Getenv("androidHome")
+	androidHome := os.Getenv("ANDROID_HOME")
 
 	// Check if the variable is empty
 	if androidHome == "" {
