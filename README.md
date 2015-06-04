@@ -12,7 +12,7 @@ Installation
 
 If you've done Go development before and your $GOPATH/bin directory is already in your PATH:
 
-``bash
+```bash
 $ go get github.com/yelinaung/local-properties
 $ go install github.com/yelinaung/local-properties
 ```
