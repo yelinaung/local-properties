@@ -10,6 +10,8 @@ This should come in handy in such case.
 Installation
 ------------
 
+`local-properties` can be easily installed as an executable. Download the latest [compiled binaries](https://github.com/yelinaung/local-properties/releases) and put it anywhere in your executable path.
+
 If you've done Go development before and your $GOPATH/bin directory is already in your PATH:
 
 ```bash
